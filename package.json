@@ -12,6 +12,7 @@
   "author": "Bakhtawar",
   "license": "MIT",
   "dependencies": {
+    "bakatm_machine": "^1.0.0",
     "inquirer": "^9.2.23"
   },
   "devDependencies": {
